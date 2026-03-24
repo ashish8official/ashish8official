@@ -23,7 +23,7 @@ Middleware developer by profession, builder by instinct.
 
 I work on **enterprise billing infrastructure** — bridging REST APIs to the CSG Kenan/BP Java billing engine over BEA Tuxedo, backed by Oracle DB on Solaris. My day job is making large, complex telecom billing systems talk to each other reliably. My nights go into building things I find genuinely interesting.
 
-Currently shipping: **[Catalyst Canvas](https://github.com/Catalyst_Canvas)** — an AI-powered code and text editor built for SQL, PL/SQL, and telecom domain workflows.
+Currently shipping: **[Catalyst Canvas](https://github.com/ashish8official/Catalyst_Canvas)** — an AI-powered code and text editor built for SQL, PL/SQL, and telecom domain workflows.
 
 ---
 
@@ -98,7 +98,7 @@ Tooling                  │  Postman · XSD · JSON schema design
 | Platform | Link |
 |----------|------|
 | 📧 Email | *ashishweasley@gmail.com* |
-| 🌐 Catalyst Canvas |https://github.com/Catalyst_Canvas|
+| 🌐 Catalyst Canvas |https://github.com/ashish8official/Catalyst_Canvas|
 
 </div>
 
