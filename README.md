@@ -97,10 +97,8 @@ Tooling                  │  Postman · XSD · JSON schema design
 
 | Platform | Link |
 |----------|------|
-| 📧 Email | *add your email* |
-| 💼 LinkedIn | *add your LinkedIn* |
-| 🐦 Twitter/X | *add your handle* |
-| 🌐 Catalyst Canvas | *add deployed URL* |
+| 📧 Email | *ashishweasley@gmail.com* |
+| 🌐 Catalyst Canvas |https://github.com/Catalyst_Canvas|
 
 </div>
 
