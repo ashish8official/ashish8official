@@ -106,7 +106,7 @@ Tooling                  │  Postman · XSD · JSON schema design
 
 <div align="center">
 
-*Based in Chandigarh, India · Open to remote collaboration*
+*Based in India · Open to remote collaboration*
 
 ```
 "Build things that solve real problems in domains you actually understand."
