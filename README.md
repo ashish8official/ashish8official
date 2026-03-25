@@ -84,7 +84,7 @@ Tooling                  │  Postman · XSD · JSON schema design
 
 ## Currently open to
 
-- 💬 **Conversations** about telecom billing systems, CSG Kenan, middleware architecture
+- 💬 **Conversations** about telecom billing systems, CSG Kenan, middleware architecture 
 - 🤝 **Collaborations** on developer tools, AI-powered editors, or SQL/PL/SQL tooling
 - 🧪 **Beta testers** for Catalyst Canvas — especially if you write SQL or PL/SQL professionally
 - 💡 **Ideas and feedback** on AI-assisted developer tooling for enterprise/telecom domains
