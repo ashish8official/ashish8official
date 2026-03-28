@@ -27,7 +27,7 @@ Currently shipping: **[Catalyst Canvas](https://github.com/ashish8official/Catal
 
 ---
 
-## What I actually build
+## What I'm actually building...
 
 ### 🧠 Catalyst Canvas *(active — hobby project)*
 > AI-powered professional editor for SQL / PL/SQL / text workflows
