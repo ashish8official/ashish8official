@@ -35,7 +35,7 @@ Currently shipping: **[Catalyst Canvas](https://github.com/ashish8official/Catal
 A full-stack AI editor inspired by VS Code + Cursor — built from scratch as a hobby.
 
 - **Stack:** Next.js 14 · TypeScript · Tailwind CSS · Monaco Editor · Google Genkit · Gemini 2.5 Flash · Firebase App Hosting · GCP
-- **Features:** Context-aware AI prompt console · selection-based AI actions (refine / explain / fix / optimize) · AI diff view with accept/reject · real-time AI diagnostics · language auto-detection · pipeline step visualization
+- **Features:** Context-aware AI prompt console · selection-based AI actions (refine/ explain /fix/ optimize) · AI diff view with accept/reject · real-time AI diagnostics · language auto-detection · pipeline step visualization
 - **Why it exists:** I work with SQL and PL/SQL daily and wanted an editor that understands telecom billing domain context, not just generic code
 
 > Currently in beta on GCP. If you work with Oracle SQL, PL/SQL, or telecom billing systems — I'd love your feedback.
