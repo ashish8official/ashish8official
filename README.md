@@ -1,104 +1,244 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--           ASHISH — GitHub Profile README                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║        MIDDLEWARE  ×  AI  ×  FULL-STACK                   ║
-║        Building systems that connect the dots.            ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+# Hi, I'm Ashish Sharma 👋
+
+### Telecom BSS Engineer · Middleware & API Developer · AI Product Builder
+
+*Building reliable enterprise systems by day, and exploring AI-powered products by night.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square\&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-ashish8official-black?style=flat-square\&logo=github)](https://github.com/ashish8official)
 
 </div>
 
 ---
 
-## Hey, I'm Ashish 👋
+## 👨‍💻 About Me
 
-Middleware developer by profession, builder by instinct.
+I'm a **Telecom BSS (Business Support Systems) Engineer** with experience working on enterprise-scale telecom systems spanning **Product Catalogue, Order Management, Provisioning, Middleware, Billing, and Oracle databases**.
 
-I work on **enterprise billing infrastructure** — bridging REST APIs to the CSG Kenan/BP Java billing engine over BEA Tuxedo, backed by Oracle DB on Solaris. My day job is making large, complex telecom billing systems talk to each other reliably. My nights go into building things I find genuinely interesting.
+My work sits at the intersection of complex business systems and technology — designing integrations, APIs, database solutions, and workflows that help large telecom platforms communicate reliably.
 
-Currently shipping: **[Catalyst Canvas](https://github.com/ashish8official/Catalyst_Canvas)** — an AI-powered code and text editor built for SQL, PL/SQL, and telecom domain workflows.
+Beyond enterprise systems, I'm actively building and experimenting with **AI-powered developer tools and full-stack products**.
 
----
-
-## What I'm actually building...
-
-### 🧠 Catalyst Canvas *(active — hobby project)*
-> AI-powered professional editor for SQL / PL/SQL / text workflows
-
-A full-stack AI editor inspired by VS Code + Cursor — built from scratch as a hobby.
-
-- **Stack:** Next.js 14 · TypeScript · Tailwind CSS · Monaco Editor · Google Genkit · Gemini 2.5 Flash · Firebase App Hosting · GCP
-- **Features:** Context-aware AI prompt console · selection-based AI actions (refine/ explain /fix/ optimize) · AI diff view with accept/reject · real-time AI diagnostics · language auto-detection · pipeline step visualization
-- **Why it exists:** I work with SQL and PL/SQL daily and wanted an editor that understands telecom billing domain context, not just generic code
-
-> Currently in beta on GCP. If you work with Oracle SQL, PL/SQL, or telecom billing systems — I'd love your feedback.
+I enjoy solving problems where domain knowledge matters as much as code.
 
 ---
 
-### ⚙️ Middleware & REST API Infrastructure *(professional)*
-> JSON ↔ CSG Kenan/BP Java API bridge over BEA Tuxedo
+## 🏗️ What I Work On
 
-- Build and maintain REST API middleware on Apache Tomcat
-- Design JSON payload structures from XSD schemas (ServiceOrder, OrderedProduct, OrderedProductUpdate)
-- Handle Postman-ready payload generation with chained variable substitution
-- Debug timezone issues at OS level (Solaris `/etc/default/init` TZ config)
-- Work with BEA Tuxedo transaction management and Oracle DB
+### 📡 Telecom BSS & Enterprise Systems
+
+Experience across telecom domains including:
+
+* Product & Package Catalogue configuration
+* Customer and Order Management workflows
+* Telecom service provisioning and activation
+* Middleware and enterprise API integrations
+* CSG Kenan / telecom billing ecosystem
+* Oracle SQL & PL/SQL
+* Integration with network and provisioning systems
+
+I am particularly interested in understanding and designing modern telecom architectures aligned with **TM Forum principles** and modular BSS design.
 
 ---
 
-## Tech I work with daily
+### ⚙️ Middleware & API Engineering
 
+Working with enterprise middleware that connects modern APIs with complex backend systems.
+
+```text
+Client / CRM / Channel
+         │
+         ▼
+      REST APIs
+         │
+         ▼
+ Middleware Layer
+         │
+         ├── Validation
+         ├── Transformation
+         ├── Orchestration
+         └── Error Handling
+         │
+         ▼
+ Enterprise Backend Systems
 ```
-Backend / Middleware     │  Java · Apache Tomcat · BEA Tuxedo · REST APIs
-Database                 │  Oracle DB · SQL · PL/SQL
-OS / Infrastructure      │  Solaris · Linux
-AI / Full-stack (hobby)  │  Next.js · TypeScript · Genkit · Gemini API · Firebase · GCP
-Tooling                  │  Postman · XSD · JSON schema design
+
+Areas I work with:
+
+* REST API design and integration
+* JSON and XML payload transformation
+* XSD-based contract understanding
+* Middleware orchestration
+* Enterprise transaction flows
+* Oracle database integration
+* Apache Tomcat
+* BEA Tuxedo
+* Solaris and Linux environments
+
+---
+
+## 🚀 What I'm Building
+
+### 🧩 Telecom Product Catalogue Engine
+
+Currently designing a modern **Telecom Product & Package Catalogue Engine** as a deep-learning and architecture project.
+
+The goal is to understand how modern telecom BSS platforms model:
+
+* Product Specifications
+* Service Specifications
+* Product Offerings
+* Bundles and Add-ons
+* Eligibility Rules
+* Market Availability
+* Catalogue Versioning
+* Configurable Product Relationships
+* Multi-tenant Architecture
+
+The architecture explores alignment with **TM Forum information models** while keeping the implementation practical for real-world telecom systems.
+
+```text
+Product Catalogue
+        │
+        ▼
+Customer / CRM
+        │
+        ▼
+Order Management
+        │
+        ▼
+Product Inventory
+        │
+        ▼
+Service Provisioning
+        │
+        ▼
+Billing & Charging
 ```
 
----
-
-## What I'm learning right now
-
-- **Scaling web apps** — GCP Cloud Run autoscaling, Firestore data modelling, Firebase Auth
-- **Prompt engineering** — context injection, multi-step Genkit pipelines, domain-aware LLM prompting
-- **Product thinking** — beta testing, user feedback loops, iterating toward a real product
+This project is helping me explore how modern composable BSS platforms should be designed beyond traditional monolithic telecom stacks.
 
 ---
 
-## Things I care about
+### 🧠 Catalyst Canvas
 
-- Systems that work reliably under real production load — not just happy-path demos
-- Clean API contracts between layers — middleware that doesn't leak complexity upward
-- Tools built for specific domains, not generic use cases
-- Finishing things. Prototypes that ship beat perfect designs that don't.
+**AI-powered editor for SQL, PL/SQL, and domain-specific developer workflows.**
+
+🔗 https://github.com/ashish8official/Catalyst_Canvas
+
+An experimental full-stack product inspired by modern AI-assisted development environments.
+
+**Tech exploration includes:**
+
+* Next.js
+* TypeScript
+* Monaco Editor
+* AI-assisted editing
+* Context-aware prompting
+* Google Genkit
+* Gemini API
+* Firebase
+* Google Cloud Platform
+
+The idea came from working daily with SQL and enterprise systems and wanting better tooling for domain-heavy development workflows.
 
 ---
 
-## Currently open to
+## 🛠️ Technology Landscape
 
-- 💬 **Conversations** about telecom billing systems, CSG Kenan, middleware architecture 
-- 🤝 **Collaborations** on developer tools, AI-powered editors, or SQL/PL/SQL tooling
-- 🧪 **Beta testers** for Catalyst Canvas — especially if you write SQL or PL/SQL professionally
-- 💡 **Ideas and feedback** on AI-assisted developer tooling for enterprise/telecom domains
+### Telecom & Enterprise
+
+```text
+Telecom BSS
+├── Product Catalogue
+├── Order Management
+├── Provisioning
+├── Billing Systems
+└── Middleware Integration
+```
+
+### Backend & Integration
+
+`Java` · `REST APIs` · `JSON` · `XML` · `XSD` · `Apache Tomcat` · `BEA Tuxedo`
+
+### Database
+
+`Oracle Database` · `SQL` · `PL/SQL` · `PostgreSQL`
+
+### Systems
+
+`Linux` · `Solaris` · `Shell Scripting`
+
+### Modern Development
+
+`TypeScript` · `Next.js` · `React` · `Node.js`
+
+### AI & Cloud
+
+`LLM APIs` · `Google Genkit` · `Gemini` · `GCP` · `Firebase`
 
 ---
 
-## Reach me
+## 📚 Currently Exploring
+
+I'm currently investing time in understanding:
+
+* Modern **Telecom BSS architecture**
+* TM Forum concepts and Open Digital Architecture
+* CRM and Customer domain modelling
+* Product Catalogue architecture
+* Order orchestration
+* API-first enterprise architecture
+* AI-assisted developer tools
+* Full-stack system design
+* Cloud-native application architecture
+
+---
+
+## 💭 Engineering Principles I Care About
+
+> **Domain understanding before implementation.**
+
+A technically correct system can still fail if the underlying business model is wrong.
+
+I enjoy working on problems involving:
+
+* Clear domain boundaries
+* Reliable integrations
+* Well-designed API contracts
+* Scalable data models
+* Configurable systems instead of hard-coded logic
+* Practical architecture over unnecessary complexity
+
+And most importantly:
+
+> **Building systems that solve real problems in domains where technology and business knowledge intersect.**
+
+---
+
+## 🤝 Open To
+
+* Discussions around **Telecom BSS architecture**
+* Product Catalogue and Order Management design
+* Middleware and enterprise API architecture
+* CSG Kenan and telecom billing systems
+* AI-powered developer tooling
+* Open-source collaborations
+* Building interesting technical products
+
+---
+
+## 📫 Connect
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 📧 Email | *ashishweasley@gmail.com* |
-| 🌐 Catalyst Canvas |https://github.com/ashish8official/Catalyst_Canvas|
+|                    |                                                                    |
+| ------------------ | ------------------------------------------------------------------ |
+| 📧 Email           | [ashishweasley@gmail.com](mailto:ashishweasley@gmail.com)          |
+| 💻 GitHub          | [@ashish8official](https://github.com/ashish8official)             |
+| 🧩 Catalyst Canvas | [View Project](https://github.com/ashish8official/Catalyst_Canvas) |
 
 </div>
 
@@ -106,10 +246,8 @@ Tooling                  │  Postman · XSD · JSON schema design
 
 <div align="center">
 
-*Based in India · Open to remote collaboration*
+### *Telecom systems are complex. Good architecture makes them understandable.*
 
-```
-"Build things that solve real problems in domains you actually understand."
-```
+**Based in India · Open to meaningful technical conversations and collaboration**
 
 </div>
