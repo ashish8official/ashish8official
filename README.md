@@ -6,8 +6,9 @@
 
 *Building reliable enterprise systems by day, and exploring AI-powered products by night.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square\&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-ashish8official-black?style=flat-square\&logo=github)](https://github.com/ashish8official)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish%20Sharma-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ashish8sharma)
+[![GitHub](https://img.shields.io/badge/GitHub-ashish8official-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/ashish8official)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:ashishweasley@gmail.com)
 
 </div>
 
@@ -126,7 +127,7 @@ This project is helping me explore how modern composable BSS platforms should be
 
 **AI-powered editor for SQL, PL/SQL, and domain-specific developer workflows.**
 
-🔗 https://github.com/ashish8official/Catalyst_Canvas
+🔗 [Catalyst Canvas](https://github.com/ashish8official/Catalyst_Canvas)
 
 An experimental full-stack product inspired by modern AI-assisted development environments.
 
@@ -153,6 +154,7 @@ The idea came from working daily with SQL and enterprise systems and wanting bet
 ```text
 Telecom BSS
 ├── Product Catalogue
+├── CRM
 ├── Order Management
 ├── Provisioning
 ├── Billing Systems
@@ -212,9 +214,7 @@ I enjoy working on problems involving:
 * Configurable systems instead of hard-coded logic
 * Practical architecture over unnecessary complexity
 
-And most importantly:
-
-> **Building systems that solve real problems in domains where technology and business knowledge intersect.**
+> **Build things that solve real problems in domains you actually understand.**
 
 ---
 
@@ -234,11 +234,12 @@ And most importantly:
 
 <div align="center">
 
-|                    |                                                                    |
+| Platform           | Link                                                               |
 | ------------------ | ------------------------------------------------------------------ |
+| 💼 LinkedIn        | [Ashish Sharma](https://www.linkedin.com/in/ashish8sharma)         |
 | 📧 Email           | [ashishweasley@gmail.com](mailto:ashishweasley@gmail.com)          |
 | 💻 GitHub          | [@ashish8official](https://github.com/ashish8official)             |
-| 🧩 Catalyst Canvas | [View Project](https://github.com/ashish8official/Catalyst_Canvas) |
+| 🧠 Catalyst Canvas | [View Project](https://github.com/ashish8official/Catalyst_Canvas) |
 
 </div>
 
