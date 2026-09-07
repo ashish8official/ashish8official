@@ -16,13 +16,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Telecom BSS (Business Support Systems) Engineer** with experience working on enterprise-scale telecom systems spanning **Product Catalogue, Order Management, Provisioning, Middleware, Billing, and Oracle databases**.
+I'm a **Telecom BSS Engineer** working on enterprise-scale systems across **Product Catalogue, CRM, Order Management, Provisioning, Middleware, Billing, and Oracle databases**.
 
-My work sits at the intersection of complex business systems and technology — designing integrations, APIs, database solutions, and workflows that help large telecom platforms communicate reliably.
+My work sits at the intersection of complex business systems and technology—designing integrations, APIs, database solutions, and workflows that help large telecom platforms communicate reliably.
 
-Beyond enterprise systems, I'm actively building and experimenting with **AI-powered developer tools and full-stack products**.
+Outside enterprise systems, I build products and experiment with **AI-powered developer tools, mobile applications, and modern full-stack architecture**.
 
-I enjoy solving problems where domain knowledge matters as much as code.
+I enjoy solving problems where **domain knowledge matters as much as code**.
 
 ---
 
@@ -30,17 +30,18 @@ I enjoy solving problems where domain knowledge matters as much as code.
 
 ### 📡 Telecom BSS & Enterprise Systems
 
-Experience across telecom domains including:
+Experience and ongoing work across telecom domains:
 
-* Product & Package Catalogue configuration
-* Customer and Order Management workflows
+* Product & Package Catalogue
+* Customer Relationship Management (CRM)
+* Order Management
 * Telecom service provisioning and activation
 * Middleware and enterprise API integrations
 * CSG Kenan / telecom billing ecosystem
 * Oracle SQL & PL/SQL
 * Integration with network and provisioning systems
 
-I am particularly interested in understanding and designing modern telecom architectures aligned with **TM Forum principles** and modular BSS design.
+I'm particularly interested in understanding and designing modern, modular telecom architectures aligned with **TM Forum principles**.
 
 ---
 
@@ -80,13 +81,13 @@ Areas I work with:
 
 ---
 
-## 🚀 What I'm Building
+# 🚀 What I'm Building
 
-### 🧩 Telecom Product Catalogue Engine
+## 🧩 Telecom Product Catalogue & BSS Engine
 
-Currently designing a modern **Telecom Product & Package Catalogue Engine** as a deep-learning and architecture project.
+Currently designing a modern **Telecom Product & Package Catalogue Engine** as a hands-on architecture and engineering project.
 
-The goal is to understand how modern telecom BSS platforms model:
+The goal is to explore how modern telecom BSS platforms model:
 
 * Product Specifications
 * Service Specifications
@@ -96,7 +97,9 @@ The goal is to understand how modern telecom BSS platforms model:
 * Market Availability
 * Catalogue Versioning
 * Configurable Product Relationships
-* Multi-tenant Architecture
+* CRM and Customer modelling
+* Order Management integration
+* Multi-tenant architecture
 
 The architecture explores alignment with **TM Forum information models** while keeping the implementation practical for real-world telecom systems.
 
@@ -119,47 +122,97 @@ Service Provisioning
 Billing & Charging
 ```
 
-This project is helping me explore how modern composable BSS platforms should be designed beyond traditional monolithic telecom stacks.
+The objective is simple: understand how a modern, composable Telecom BSS can be designed beyond traditional monolithic stacks.
 
 ---
 
-### 🧠 Catalyst Canvas
+## 🧠 Catalyst Canvas
 
 **AI-powered editor for SQL, PL/SQL, and domain-specific developer workflows.**
 
-🔗 [Catalyst Canvas](https://github.com/ashish8official/Catalyst_Canvas)
+🔗 [View Catalyst Canvas](https://github.com/ashish8official/Catalyst_Canvas)
 
 An experimental full-stack product inspired by modern AI-assisted development environments.
 
-**Tech exploration includes:**
+### Exploring
 
-* Next.js
-* TypeScript
-* Monaco Editor
-* AI-assisted editing
-* Context-aware prompting
-* Google Genkit
-* Gemini API
-* Firebase
-* Google Cloud Platform
+* Context-aware AI assistance
+* SQL & PL/SQL workflows
+* Selection-based AI actions
+* AI-powered code refinement
+* Monaco Editor integration
+* LLM pipeline orchestration
+* Domain-aware prompting
 
-The idea came from working daily with SQL and enterprise systems and wanting better tooling for domain-heavy development workflows.
+### Stack
+
+`Next.js` · `TypeScript` · `Monaco Editor` · `Google Genkit` · `Gemini API` · `Firebase` · `GCP`
+
+The idea came from working daily with SQL and enterprise systems and wanting better tools for domain-heavy development workflows.
 
 ---
 
-## 🛠️ Technology Landscape
+## 💍 Wedding Finance App
+
+A mobile-first product concept focused on solving a surprisingly complex problem:
+
+> **Managing the finances of a wedding or large family event collaboratively.**
+
+Traditional expense trackers are designed for individuals. Weddings and major events involve:
+
+* Multiple families
+* Multiple contributors
+* Shared and private expenses
+* Different responsibilities
+* Informal budgets
+* Vendor coordination
+* Payment tracking
+
+The goal is to build an **event finance and planning platform**, starting with weddings.
+
+### Core ideas
+
+* Collaborative event budgeting
+* Family and group-based financial tracking
+* Role-based access
+* Shared and private expenses
+* Budget vs actual tracking
+* Vendor and payment management
+* Event planning workflows
+* AI-assisted budgeting guidance
+* Future taxation and financial assistance possibilities
+
+### Architecture Exploration
+
+`React Native` · `Expo` · `TypeScript` · `Supabase` · `PostgreSQL` · `SQLite` · Offline-first architecture
+
+```text
+Users & Families
+        │
+        ▼
+ Event Workspace
+        │
+ ┌──────┼───────────┐
+ ▼      ▼           ▼
+Budget  Expenses    Vendors
+ │      │           │
+ └──────┼───────────┘
+        ▼
+ Financial Insights
+        │
+        ▼
+ AI Planning Assistance
+```
+
+While weddings are the starting point, the larger idea is to create a reusable platform for **collaborative financial planning for major life events**.
+
+---
+
+# 🛠️ Technology Landscape
 
 ### Telecom & Enterprise
 
-```text
-Telecom BSS
-├── Product Catalogue
-├── CRM
-├── Order Management
-├── Provisioning
-├── Billing Systems
-└── Middleware Integration
-```
+`Telecom BSS` · `Product Catalogue` · `CRM` · `Order Management` · `Provisioning` · `Billing` · `Middleware`
 
 ### Backend & Integration
 
@@ -173,33 +226,33 @@ Telecom BSS
 
 `Linux` · `Solaris` · `Shell Scripting`
 
-### Modern Development
+### Full-Stack & Mobile
 
-`TypeScript` · `Next.js` · `React` · `Node.js`
+`TypeScript` · `Next.js` · `React` · `React Native` · `Expo` · `Node.js`
 
 ### AI & Cloud
 
-`LLM APIs` · `Google Genkit` · `Gemini` · `GCP` · `Firebase`
+`LLM APIs` · `Google Genkit` · `Gemini` · `GCP` · `Firebase` · `Supabase`
 
 ---
 
-## 📚 Currently Exploring
-
-I'm currently investing time in understanding:
+# 📚 Currently Exploring
 
 * Modern **Telecom BSS architecture**
-* TM Forum concepts and Open Digital Architecture
+* TM Forum information models and Open Digital Architecture
 * CRM and Customer domain modelling
 * Product Catalogue architecture
 * Order orchestration
 * API-first enterprise architecture
+* Domain-Driven Design concepts
 * AI-assisted developer tools
-* Full-stack system design
+* Mobile product development
+* Offline-first applications
 * Cloud-native application architecture
 
 ---
 
-## 💭 Engineering Principles I Care About
+# 💭 Engineering Principles I Care About
 
 > **Domain understanding before implementation.**
 
@@ -213,24 +266,26 @@ I enjoy working on problems involving:
 * Scalable data models
 * Configurable systems instead of hard-coded logic
 * Practical architecture over unnecessary complexity
+* Products built around real user problems
 
 > **Build things that solve real problems in domains you actually understand.**
 
 ---
 
-## 🤝 Open To
+# 🤝 Open To
 
 * Discussions around **Telecom BSS architecture**
-* Product Catalogue and Order Management design
+* Product Catalogue, CRM, and Order Management design
 * Middleware and enterprise API architecture
-* CSG Kenan and telecom billing systems
+* Telecom billing systems
 * AI-powered developer tooling
+* Mobile and SaaS product ideas
 * Open-source collaborations
 * Building interesting technical products
 
 ---
 
-## 📫 Connect
+# 📫 Connect
 
 <div align="center">
 
@@ -247,7 +302,7 @@ I enjoy working on problems involving:
 
 <div align="center">
 
-### *Telecom systems are complex. Good architecture makes them understandable.*
+### *Complex systems. Real problems. Practical architecture.*
 
 **Based in India · Open to meaningful technical conversations and collaboration**
 
